@@ -1,0 +1,35 @@
+﻿Выполняется установка сборки 'D:\Watcher\Watcher\bin\Debug\Watcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Watcher\Watcher\bin\Debug\Watcher.exe
+   logfile = D:\Watcher\Watcher\bin\Debug\Watcher.InstallLog
+Устанавливается служба ServiceVal...
+Служба ServiceVal успешно установлена.
+Создается исходный EventLog ServiceVal в журнале Application...
+Выполняется фиксация сборки 'D:\Watcher\Watcher\bin\Debug\Watcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Watcher\Watcher\bin\Debug\Watcher.exe
+   logfile = D:\Watcher\Watcher\bin\Debug\Watcher.InstallLog
+Выполняется удаление сборки 'D:\Watcher\Watcher\bin\Debug\Watcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Watcher\Watcher\bin\Debug\Watcher.exe
+   logfile = D:\Watcher\Watcher\bin\Debug\Watcher.InstallLog
+Выполняется удаление источника EventLog ServiceVal.
+Выполняется удаление службы ServiceVal из системы...
+Служба ServiceVal успешно удалена из системы.
+Попытка останова службы ServiceVal.
+Выполняется установка сборки 'D:\Watcher\Watcher\bin\Debug\Watcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Watcher\Watcher\bin\Debug\Watcher.exe
+   logfile = D:\Watcher\Watcher\bin\Debug\Watcher.InstallLog
+Устанавливается служба ServiceVal...
+Служба ServiceVal успешно установлена.
+Создается исходный EventLog ServiceVal в журнале Application...
+Выполняется фиксация сборки 'D:\Watcher\Watcher\bin\Debug\Watcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Watcher\Watcher\bin\Debug\Watcher.exe
+   logfile = D:\Watcher\Watcher\bin\Debug\Watcher.InstallLog

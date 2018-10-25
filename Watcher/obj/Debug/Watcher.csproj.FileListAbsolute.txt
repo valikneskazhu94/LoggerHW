@@ -1,0 +1,11 @@
+c:\users\mak\documents\visual studio 2017\Projects\Watcher\Watcher\bin\Debug\Watcher.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\Watcher\Watcher\bin\Debug\Watcher.exe
+c:\users\mak\documents\visual studio 2017\Projects\Watcher\Watcher\bin\Debug\Watcher.pdb
+c:\users\mak\documents\visual studio 2017\Projects\Watcher\Watcher\obj\Debug\Watcher.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\Watcher\Watcher\obj\Debug\Watcher.exe
+c:\users\mak\documents\visual studio 2017\Projects\Watcher\Watcher\obj\Debug\Watcher.pdb
+D:\Watcher\Watcher\bin\Debug\Watcher.exe.config
+D:\Watcher\Watcher\bin\Debug\Watcher.exe
+D:\Watcher\Watcher\obj\Debug\Watcher.exe
+D:\Watcher\Watcher\obj\Debug\Watcher.pdb
+D:\Watcher\Watcher\bin\Debug\Watcher.pdb
